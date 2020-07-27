@@ -1,2 +1,2 @@
-# obstacle-avoiding-robot
-This robot can sense obstacles and change direction hence dodging them.
+# bluetooth-controlled-robot
+This robot moves forward, backward, left or right, according to the command you give it.
